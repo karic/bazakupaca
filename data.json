@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Riki Bibi",
+      "email": "rbibi@gmail.com",
+      "age": 77
+    },
+    {
+      "id": "2",
+      "name": "Miki Karic",
+      "email": "mkaric@gmail.com",
+      "age": 24
+    },
+    {
+      "id": "3",
+      "name": "Seki Skopljakovic",
+      "email": "sskopljakovic@gmail.com",
+      "age": 27
+    },
+    {
+      "id": "4",
+      "name": "Meli Melic",
+      "email": "mmelic@gmail.com",
+      "age": 36
+    },
+    {
+      "id": "5",
+      "name": "Neno Nenic",
+      "email": "nnenic@gmail.com",
+      "age": 55
+    },
+    {
+      "name": "Zeri Zeric",
+      "email": "zzeric@gmail.com",
+      "age": 25,
+      "id": "ohdMdtw"
+    }
+  ]
+}
